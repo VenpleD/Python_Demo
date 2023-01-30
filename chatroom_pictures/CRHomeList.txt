@@ -1,0 +1,2 @@
+68K	./Pods/Resources/CRHomeList.xcassets/crhomelist_order_header_ipx.imageset/crhomelist_order_header_ipx.png
+64K	./Pods/Resources/CRHomeList.xcassets/crhomelist_order_header.imageset/crhomelist_order_header.png

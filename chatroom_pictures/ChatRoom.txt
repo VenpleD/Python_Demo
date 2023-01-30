@@ -1,0 +1,28 @@
+548K	./Pods/Resources/Resources/ChatRoomResource.bundle/cr_redpacket_global_entry.png
+468K	./Pods/Resources/Images/ChatRoom.xcassets/Common/cr_emotion_bgX.imageset/cr_emotion_bgX.png
+388K	./Pods/Resources/Images/ChatRoom.xcassets/Common/cr_singingMenu_bgX.imageset/cr_singingMenu_bgX.png
+352K	./Pods/Resources/Images/ChatRoom.xcassets/ChatRoom/cr_public_reward.imageset/cr_public_reward@3x.png
+336K	./Pods/Resources/Resources/ChatRoomResource.bundle/gift_user_full_frame.png
+328K	./Pods/Resources/Resources/ChatRoomResource.bundle/redpacket_bg.png
+244K	./Pods/Resources/Resources/ChatRoomResource.bundle/cr_redpacket_normal_entry.png
+228K	./Pods/Resources/Images/ChatRoom.xcassets/Common/cr_blindDate_bgX.imageset/cr_blindDate_bgX.png
+196K	./Pods/Resources/Resources/ChatRoomResource.bundle/img_prompt_box_ready.png
+196K	./Pods/Resources/Images/ChatRoom.xcassets/Gift/gift_bg_shadow.imageset/gift_bg_shadow@3x.png
+180K	./Pods/Resources/Images/ChatRoom.xcassets/ChatRoom/cr_public_reward.imageset/cr_public_reward@2x.png
+172K	./Pods/Resources/Resources/ChatRoomResource.bundle/img_prompt_box_count.png
+160K	./Pods/Resources/Images/ChatRoom.xcassets/Common/cr_personal_bgX.imageset/cr_personal_bgX.png
+156K	./Pods/Resources/Images/ChatRoom.xcassets/ChatRoom/bg_reward_all_guest.imageset/bg_reward_all_guest@3x.png
+152K	./Pods/Resources/Images/ChatRoom.xcassets/Game/cr_pop_game_invite.imageset/cr_pop_game_invite@3x.png
+136K	./Pods/Resources/Images/ChatRoom.xcassets/Common/cr_fm_bgX.imageset/cr_fm_bgX.png
+124K	./Pods/Resources/Images/ChatRoom.xcassets/Common/cr_sendOrder_bgX.imageset/cr_sendOrder_bgX.png
+120K	./Pods/Resources/Images/ChatRoom.xcassets/Support/Empty/cr_empty_packet_recordlist.imageset/Group 2@3x.png
+100K	./Pods/Resources/Resources/ChatRoomResource.bundle/zedui_nono_loading.png
+ 96K	./Pods/Resources/Resources/ChatRoomResource.bundle/cr_img_present.png
+ 84K	./Pods/Resources/Images/ChatRoom.xcassets/Game/cr_pop_game_invite.imageset/cr_pop_game_invite@2x.png
+ 84K	./Pods/Resources/Images/ChatRoom.xcassets/ChatRoom/bg_enter.imageset/bg_enter@3x.png
+ 80K	./Pods/Resources/Images/ChatRoom.xcassets/RedPacket/cr_publicscreen_bg_wordredpacket.imageset/cr_publicscreen_bg_wordredpacket@3x.png
+ 76K	./Pods/Resources/Images/ChatRoom.xcassets/ChatRoom/bg_reward_all_guest.imageset/bg_reward_all_guest@2x.png
+ 76K	./Pods/Resources/Images/ChatRoom.xcassets/ChatRoom/BlindDate/bd_success_left_heart.imageset/bd_success_left_heart@3x.png
+ 64K	./Pods/Resources/Images/ChatRoom.xcassets/RedPacket/cr_red_package_detail_bg.imageset/cr_red_package_detail_bg.png
+ 56K	./Pods/Resources/Images/ChatRoom.xcassets/Support/Empty/cr_empty_packet_recordlist.imageset/Group 2@2x.png
+ 56K	./Pods/Resources/Images/ChatRoom.xcassets/ChatRoom/BlindDate/bd_success_right_heart.imageset/bd_success_right_heart@3x.png
